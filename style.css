@@ -1,0 +1,156 @@
+.customimgAboutus{
+width: 90%;
+height: 400px;
+margin: 20px auto;
+display: inline-block;
+}
+.aboutUsclass{
+
+ background-color: rgb(211, 240, 240);   
+}
+.customcontent{
+padding: 3rem;
+font-weight: 400;
+}
+.custombtn{
+background-color: aqua;
+margin: 10px 20px;
+display: inline-block;
+border: none;
+
+}
+.custombtn:hover{
+background-color: white;
+
+}
+
+.customBTN{
+border: none;
+margin: 40px;
+}
+.customBTN:hover{
+background: black;
+color: white;
+}
+.card-title{
+text-align: center;
+font-weight: 600;
+}
+.card-text{
+text-align: center;
+
+}
+.first-heading{
+padding-top: 50px;
+
+}
+.navbar{
+width: 100%;
+padding: 20px 80px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.logo{
+font-size: 30px;
+font-weight: bolder;
+}
+.nav-links{
+list-style: none;
+display: flex;
+gap: 50px;
+}
+.nav-links a {
+text-decoration: none;
+color: black;
+font-size: small;
+}
+.nav-links a:hover{
+color: blue;
+}
+.nav-icons a{
+font-size: small;
+text-decoration: none;
+color: black;
+
+}
+
+.nav-icons a:hover{
+  color: blue;  
+}
+.carousel-inner{
+height: 110vh;
+
+}
+
+.newbtn{
+padding: 10%;
+
+padding-bottom: 30%;
+}
+#search-icon{
+margin-left: 30px;
+
+}
+.customBTNTWO{
+background-color: rgb(162, 235, 235);
+border: none;
+}
+.customBTNTWO:hover{
+
+color: rgb(13, 13, 13);
+background-color: rgb(244, 21, 21);
+}
+.card-img-top:hover{
+padding: 10px;
+}
+.customBTNthree{
+  background-color: rgb(119, 225, 225);
+border: none;
+
+}
+.customBTNthree:hover{
+background: black;
+color: white;
+
+}
+.customIMGFoo{
+    width: 70px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .para-short{
+margin-top: -20px;
+
+  }
+  .last-heading{
+font-size: small;
+font-family: 'Times New Roman', Times, serif;
+ text-align: center;
+margin-top: 20px;
+}
+.last-links{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+gap: 20px;
+
+}
+.last-links ul{
+list-style: none;
+padding: 0;
+}
+.last-links ul li{
+margin: 8px 0; 
+}
+.last-links ul li a{
+color: white;
+text-decoration: none;
+font-size: small;
+}
+.last-icons{
+padding: 10px;
+gap: 40px;
+color: white(163, 243, 243);
+
+}
